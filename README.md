@@ -1,5 +1,7 @@
 *MUST run npm install to add node modules*
 
+This was a website I created for a Midterm in Advanced Web Development using PHP and bootstrap
+
 
 
 # Bootstrap v5 Theme Kit
