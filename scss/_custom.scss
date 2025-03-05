@@ -1,0 +1,30 @@
+// #########################################################
+//            COPY BOOTSTRAP VARIABLES YOU NEED TO OVERIDE INTO THIS FILE            
+//              WE HAVE AFEW OVERIDES ALREADY
+// #########################################################
+            
+// COPY VARIABLES YOU WANT TO OVRIDE HERE
+
+$primary: #633393;
+$navbar-light-brand-color: white;
+$navbar-light-brand-hover-color: #f0f0f0;
+
+$navbar-light-color: white;
+$navbar-light-hover-color: #f0f0f0;
+$navbar-light-active-color: #f0f0f0;
+
+$navbar-light-disabled-color: #f0f0f0;
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+
+//CUSTOM STYLES
+
+$overlay-bg-color: #6c757d; // --bs-gray: 
+$overlay-text-bg-color: #212529; //--bs-gray-900:
+
+
