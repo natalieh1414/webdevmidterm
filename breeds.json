@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Golden Retriever",
+        "type": "Sporting Group",
+        "size": "Large",
+        "exercise": "High",
+        "size_of_home": "Large",
+        "grooming": "Moderate",
+        "coat_length": "Medium",
+        "sheds": "Yes",
+        "lifespan": "10-12 years",
+        "image": "images/retriever-golden.jpg"
+    },
+    {
+        "name": "German Shepherd",
+        "type": "Herding Group",
+        "size": "Large",
+        "exercise": "High",
+        "size_of_home": "Large",
+        "grooming": "Moderate",
+        "coat_length": "Medium",
+        "sheds": "Yes",
+        "lifespan": "9-13 years",
+        "image": "images/german-shepherd.jpg"
+    },
+    {
+        "name": "Bulldog",
+        "type": "Non-Sporting Group",
+        "size": "Medium",
+        "exercise": "Low",
+        "size_of_home": "Small to Medium",
+        "grooming": "Low",
+        "coat_length": "Short",
+        "sheds": "Yes",
+        "lifespan": "8-10 years",
+        "image": "images/bulldog.jpg"
+    },
+    {
+        "name": "Beagle",
+        "type": "Hound Group",
+        "size": "Small to Medium",
+        "exercise": "High",
+        "size_of_home": "Medium",
+        "grooming": "Low",
+        "coat_length": "Short",
+        "sheds": "Yes",
+        "lifespan": "12-15 years",
+        "image": "images/beagle.jpg"
+    }
+]
+
