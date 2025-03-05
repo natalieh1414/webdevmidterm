@@ -1,3 +1,7 @@
+*MUST run npm install to add node modules*
+
+
+
 # Bootstrap v5 Theme Kit
 A starter project for making Bootstrap 5 themes with Sass
 
